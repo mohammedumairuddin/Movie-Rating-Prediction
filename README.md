@@ -1,6 +1,6 @@
 # Movie Rating Prediction
 
-# Movie Rating Prediction
+
 
 ## Project Overview
 This project predicts movie ratings based on attributes like genre, director, and actors using machine learning.
